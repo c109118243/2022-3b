@@ -46,6 +46,7 @@ big
 |zebra stripes| are neat       |     $1|
 | test |測試       |    $3333|
 
+![NKUST](182513897.png)
 ***
 # 實作題
 
