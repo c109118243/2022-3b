@@ -1,3 +1,6 @@
+---
+[PERT圖/關鍵路徑繪製連結](https://hackmd.io/@el3TQc_2ScCsyXBi0HyyUQ/S1LsZJQ7s)
+---
 **(1) PERT/CPM 圖**
 
 ![![來源]([https://hackmd.io/Rsoyw2skS92hwGh7-quOlw?view](https://hackmd.io/@el3TQc_2ScCsyXBi0HyyUQ/S1LsZJQ7s
@@ -48,5 +51,23 @@ gantt
 **(3)關鍵路徑**
 
 最長路徑為:
+
 ![![來源]([https://hackmd.io/Rsoyw2skS92hwGh7-quOlw?view](https://hackmd.io/@el3TQc_2ScCsyXBi0HyyUQ/S1LsZJQ7s
 ))](https://user-images.githubusercontent.com/113969755/195107134-901b1bb3-5956-47ea-b191-1509dab44728.png)
+
+需耗費155天。
+---
+| 任務 | 說明         | 需時(天) | 前置任務 |
+| ---- | ------------ | -------- | -------- |
+| 1    | 研擬計畫     | 1        | -        |
+| 2    | 任務分配     | 4        | 1        |
+| 3    | 取得硬體     | 17       | 1        |
+| 4    | 程式開發     | 70       | 2        |
+| 5    | 安裝軟體     | 10       | 3        |
+| 6    | 程式測試     | 30       | 4        |
+| 7    | 撰寫使用手冊 | 25       | 5        |
+| 8    | 轉換檔案     | 20       | 5        |
+| 9    | 系統測試     | 25       | 6        |
+| 10   | 使用者訓練   | 20       | 7,8      |
+| 11   | 使用者測試   | 25       | 9,10     |
+---
