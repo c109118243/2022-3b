@@ -44,3 +44,9 @@ gantt
     section 使用者測試
     25      :a11, after a9  , 25d
 ```
+
+**(3)關鍵路徑**
+
+最長路徑為:
+![![來源]([https://hackmd.io/Rsoyw2skS92hwGh7-quOlw?view](https://hackmd.io/@el3TQc_2ScCsyXBi0HyyUQ/S1LsZJQ7s
+))](https://user-images.githubusercontent.com/113969755/195107134-901b1bb3-5956-47ea-b191-1509dab44728.png)
